@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795126776913",
+    "project_id": "shopinngo-43090",
+    "storage_bucket": "shopinngo-43090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795126776913:android:f7eddc9f2421786889e470",
+        "android_client_info": {
+          "package_name": "com.mspiron.shopinngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795126776913-kfsrq8fmfp9ue27bd06a7veidroap1c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mspiron.shopinngo",
+            "certificate_hash": "4fe2c435ac7a67c20bc67924dea3d1bdf240dfb6"
+          }
+        },
+        {
+          "client_id": "795126776913-4ej6cr5mqk0nn13a3aoemk1kgbve3ndm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkf1u-sQfCUPWLZr_ukwacDU7CXdJxLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795126776913-4ej6cr5mqk0nn13a3aoemk1kgbve3ndm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
